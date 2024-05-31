@@ -12,4 +12,7 @@ namespace camera_show_denali {
         //V2022.03
         //Edit name exe
     }
+
+    #region ##########################
+    #endregion #####################
 }
